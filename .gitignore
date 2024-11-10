@@ -1,6 +1,6 @@
 #Ignorar el archivo de configuracion local
 configuracion_local.sh
-
+.DS_Store
 # Ignorar la carpeta de archivos privados
 archivos_privados/
 
